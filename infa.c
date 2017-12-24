@@ -85,7 +85,7 @@ int main()
     printf("\n");
     f = 0;
     h = 0;
-    while(h <= 100)
+    while(h <= n)
     {
         h++;
         for(i = 0; i<n; i++)
